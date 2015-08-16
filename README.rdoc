@@ -9,6 +9,7 @@ Unfinished rails shop.
 
 What to do:
 
+* Store images on SW3 servers
 * Fix cart bug
 * Add registration page
 * Add braintree for payments
